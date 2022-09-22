@@ -1,0 +1,48 @@
+body
+{
+    padding: 250px;
+    font-size: 15px;
+    
+}
+
+.sedans
+{
+    background-color: hsl(31, 77%, 52%);
+    
+}
+
+.SUVs
+{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.Luxury
+{
+    background-color: hsl(179, 100%, 13%);
+}
+h1
+{
+    font-family: 'Big Shoulders Display', cursive;
+    padding-bottom: 20px;
+}
+p
+{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.btn
+{
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.crd
+{
+    height: 400px;
+    width: 300px;
+    color: #fff;
+    padding: 40px;
+}
+img
+{
+    padding-bottom: 20px;
+}
